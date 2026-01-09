@@ -1,2 +1,5 @@
-# data-science-projects
-My data science and analytics projects (Python, SQL, ML)
+# Data Analytics Journey
+
+This repository documents my daily learning and practice in data analytics.
+It includes Python, SQL, and analytics projects starting from the basics.
+
